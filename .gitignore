@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+pypy*
